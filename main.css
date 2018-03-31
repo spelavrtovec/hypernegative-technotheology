@@ -1,0 +1,401 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	font-family: 'Inconsolata', monospace;
+	margin-left: 3%;
+	margin-right: 3%;
+	white-space:nowrap;
+	font-size: 1.3vw;
+}
+
+
+.line11 {
+	text-indent: 13%;
+}
+
+.line12 {
+	text-indent: 19%;
+}
+
+.line13 {
+	text-indent: 25%;
+}
+
+.line14 {
+	margin-left: 29%;
+	margin-right: 3%;
+}
+
+.line15 {
+	text-indent: 37%;
+}
+
+.line16 {
+	text-indent: 45%;
+}
+
+.line17 {
+	text-indent: 50%;
+}
+	
+	.big {
+	font-size: 20vw;
+}
+
+.line18 {
+	text-indent: 43%;
+}
+
+.line19 {
+	text-indent: 45%;
+}
+
+.line20 {
+	text-indent: 31%;
+}
+
+.line21 {
+	text-indent: 25%;
+}
+
+.line22 {
+	text-indent: 10%;
+}
+
+.line24 {
+	text-indent: 13%;
+}
+
+.line25 {
+	text-indent: 11.5%;
+}
+
+.line26 {
+	text-align: right;
+	margin-right: 29%;
+}
+
+	.line26 .part2 {
+		font-size: 7vw;
+	}
+
+.line27 {
+	display: flex;
+	width:100%;
+	justify-content: flex-end;
+	text-align: right;
+}
+
+	.line27 .part1 {
+		text-align: right;
+		margin-right: 23%;
+	}
+
+	.line27 .part2 {
+		text-align: right;
+		margin-right: 3%;
+	}
+
+.line28 {
+	display: flex;
+	width:100%;
+	justify-content: flex-end;
+	text-align: right;
+}
+
+	.line28 .part1 {
+		text-align: right;
+		margin-right: 23%;
+	}
+
+	.line28 .part2 {
+		text-align: right;
+		margin-right: 12%;
+	}
+	
+.line29 {
+	text-align: right;
+	margin-right: 42%;
+}
+
+.line30 {
+	text-align: right;
+	margin-right: 12%;
+}
+
+.line31 {
+	text-align: right;
+	margin-right: 18%;
+}
+
+.line32 {
+	text-align: right;
+	margin-right: 23%;
+}
+
+.line33 {
+	text-align: right;
+	margin-right: 3%;
+}
+
+	.line33 .big2 {
+		font-size: 4vw;
+	}
+
+.line34 {
+	font-size: 12vw;
+	margin-top: 0;
+	text-align: right;
+	margin-right: 3%;
+}
+
+.line36 {
+	text-align: center;
+}
+
+	.line36 .big3 {
+		font-size: 11vw;
+	}
+
+.line37, .line38, .line39, .line40, .line41, .line42 {
+	text-align: center;
+}
+
+
+.line43 {
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.line44 {
+	text-align: center;
+	margin-top: 0;
+}
+	
+	.line44 .big4 {
+		font-size: 80px;
+	}
+
+.line45, .line46, .line47, .line48, .line49, .line50, .line51, .line52, .line53, .line54, .line55, .line56, .line57, .line58 {
+	text-align: center;
+}
+
+img[src="images/trinity.png"] {
+	height: 300px;
+}
+
+.line59 {
+	width: 100%;
+	text-align: right;
+}
+
+.line60, .line61, .line62, .line63, .line64, .line65, .line66, .line67 {
+	text-align: center;
+}
+
+.line68 .big {
+	font-size: 100px
+}
+
+.line69, .line70, .line71, .line72 {
+	text-align: center;
+}
+
+.line73 {
+	font-size: 23vw;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.line74 {
+	text-align: center;
+}
+
+	.line74 .big {
+	font-size: 40px;
+}
+
+.line76, .line77, .line79, .line80, .line82, .line83, .line84, .line86, .line89, .line90, .line92, .line93 {
+	text-align: right;
+}
+
+.line94 {
+	text-align: center;
+}
+
+.line96 {
+	text-indent: 7%;
+}
+
+.line97, .line98 {
+	text-align: right;
+}
+
+.line100 {
+	text-indent: 7%;
+}
+
+.line101 {
+	text-indent: 9%;
+}
+
+.line102 {
+	text-indent: 11%;
+}
+
+.line103 {
+	text-align: right;
+}
+
+.line104 {
+	text-indent: 9%;
+}
+
+.line105 {
+	text-indent: 11%;
+}
+
+.line106 {
+	text-indent: 11%;
+}
+
+.line107, .line108, .line109, .line110, .line111, .line112, .line113, .line114, .line115, .line116, .line117 {
+	text-align: right;
+}
+
+.line118 {
+	display: inline-flex;
+	flex-direction: row;
+	width: 100%;
+	justify-content: flex-end;
+}
+
+	.image-list ul {
+	list-style: none;
+	text-align: right;
+}
+ 
+	.image {
+ 	flex: none;
+
+ }
+
+	.image-list {
+ 	flex: none;
+ }
+
+.line119, .line120, .line121, .line122, .line123, .line124, .line125, .line126, .line127, .line128 {
+	text-align: right;
+}
+.line129 {
+	text-align: center;
+}
+
+#line130 {
+	display: block;
+	height: 6px;
+	border-color: white;
+	background-color: white;
+	color: white;
+	margin: none;
+	border-style: none;
+}
+
+#line131 {
+	display: block;
+	height: 6px;
+	width: 300px;
+	border-color: white;
+	background-color: white;
+	color: white;
+	margin: none;
+	border-style: none;
+}
+
+.line132 {
+	text-align: center;
+}
+
+.line133 {
+	font-size: 8.5vw;
+	text-align: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ .line134, .line135, .line136, .line137, .line138 {
+ 	text-align: center;
+ }
+
+ .line139 {
+ 	text-align: center;
+ 	font-size: 30px;
+ }
+
+ .line140 {
+ 	text-align: center;
+ 	font-size: 70px;
+ 	margin-bottom: 0;
+ }
+
+ 	.line140 .bigger {
+ 		font-size: 200px;
+ 	}
+
+.circle {
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+	font-size: 20px;
+	line-height: 500px;
+	background: black;
+	border: 6px solid white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	margin-top: 0;
+}
+
+.line142, .line143, .line144, .line145, .line146, .line147, .line148, .inbetween, .line149 {
+	text-align: center;
+}
+
+.line145 .underline {
+	text-decoration: underline;
+}
+
+.line155 {
+	text-align: right;
+}
+
+.line156 {
+	text-align: right;
+	margin-right: 72px;
+}
+
+.line170, .line171, .line172, .line173 {
+	text-indent: 50%;
+}
+
+.line180 {
+	text-align: right;
+}
+
+.line181 {
+	text-align: right;
+	margin-right: 45px;
+}
+
+.line185 {
+	text-align: right;
+}
+
+@viewport {
+  width: device-width;
+}
